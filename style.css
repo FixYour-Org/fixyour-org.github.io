@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
+/* 
+    Thank you to: 
+    https://github.com/johnggli/linktree
+    https://github.com/RyanLefebvre/TREE
+    https://github.com/LogSmarter-LLC/TREE 
+*/
+
 :root {
     --bgColor: #223344;
     --bgColor2: #090a0f;
